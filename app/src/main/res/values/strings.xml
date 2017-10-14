@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMK Rabbaanii</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="fragment_home">Fragment Home</string>
+    <string name="fragment_about">Fragment About</string>
+</resources>
